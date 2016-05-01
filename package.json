@@ -1,0 +1,13 @@
+{
+  "name": "react-forms",
+  "version": "0.0.1",
+  "description": "A Forms library for React",
+  "main": "Forms.jsx",
+  "author": "Ryan O'Donnell",
+  "devDependencies": {
+    "react": "^0.14.7"
+  },
+  "dependencies": {
+    "react": "^0.14.0"
+  }
+}
